@@ -8,3 +8,5 @@ const notas = [10, 6.5, 8, 7.5];
 const media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length;
 
 console.log(media);
+
+// A propriedade length representa um inteiro de 32-bit sem sinal, que especifíca o número de elementos em um array.
