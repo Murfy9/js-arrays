@@ -7,3 +7,5 @@ notas.push(7);
 const media = (notas[0] + notas[1] + notas[2] + notas[3]) / notas.length;
 
 console.log(media);
+
+// O método push() adiciona um ou mais elementos ao final de um array e retorna o novo comprimento desse array.
